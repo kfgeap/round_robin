@@ -1,10 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/////プロトタイプ宣言/////
-void sort(int *q);
-
-/////メイン関数/////
 int main(void)
 {
 
